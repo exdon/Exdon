@@ -1,6 +1,6 @@
 ### Hi there, I'm Erik 👋
 
-# Welcome!
+#### Welcome!
 
 
 ## About me
@@ -12,7 +12,7 @@
 
 # Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="30">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/exdon)]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/exdon)](https://github.com/exdon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-xavier/)]
 
 
