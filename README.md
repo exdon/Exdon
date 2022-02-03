@@ -1,6 +1,8 @@
-### Hi there, I'm Erik  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> 
+<img align="right" alt="HAND HAPPY" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif width="190"> 
 
-#### Welcome! <div align="right"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif width="150"> </div>
+### Hi there, I'm Erik &nbsp;<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> 
+
+#### Welcome! 
 
 
 ## About me
