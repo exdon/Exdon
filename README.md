@@ -71,6 +71,8 @@
 ![JENKINS Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
 
+## GitHub Status
+ [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon)](https://github.com/exdon/github-readme-stats)
 
 
 
