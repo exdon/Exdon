@@ -15,9 +15,9 @@
 
 ## Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="90">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/exdon)](https://github.com/exdon)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-xavier)](https://www.linkedin.com/in/erik-xavier)
-[![Whatsapp Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960702182)](https://api.whatsapp.com/send?phone=5511960702182)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/exdon)](https://github.com/exdon)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-xavier)](https://www.linkedin.com/in/erik-xavier)
+[![Whatsapp Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960702182)](https://api.whatsapp.com/send?phone=5511960702182)
 
 ## Languages and Tools
 
