@@ -1,4 +1,4 @@
-### Hi there, I'm Erik 👋
+### Hi there, I'm Erik <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> 
 
 #### Welcome!
 
