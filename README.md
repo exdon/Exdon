@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Erik &nbsp;<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> 
 
-#### Welcome! 
+#### Welcome! &nbsp;
 
 
 ## About me
@@ -17,6 +17,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/exdon)](https://github.com/exdon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-xavier)](https://www.linkedin.com/in/erik-xavier)
+[![Whatsapp Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960702182)](https://api.whatsapp.com/send?phone=5511960702182)
+
+## Languages and Tools
+
+<p> Here some technologies wich I've been working with </p>
 
 
 
