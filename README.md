@@ -2,9 +2,9 @@
 
 #### Welcome!
 
-<div align="center">
-## About me
 
+## About me
+<div align="center">
 :computer: I'm **Software Developer**! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30"> <br /> 
 :house_with_garden: I’m from **Brazil**. <br />
 :mailbox: Living in **Santo André, São Paulo**. <br />
