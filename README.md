@@ -5,7 +5,7 @@
 #### Welcome! &nbsp;
 
 
-## About me
+## About me :eyes:
 
 :computer: I'm **Software Developer**! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30"> <br /> 
 :house_with_garden: I’m from **Brazil**. <br />
@@ -21,7 +21,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ErikExdon)](https://t.me/ErikExdon)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:erik_exdon@rocketmail.com)](mailto:erik_exdon@rocketmail.com)
 
-## Languages and Tools
+## Languages and Tools :trophy:
 
 <p> Here some technologies wich I've been working with </p>
 
@@ -71,7 +71,7 @@
 ![JENKINS Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
 
-## GitHub Stats
+## GitHub Stats :chart_with_upwards_trend:
 
    [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon&show_icons=true&theme=gruvbox&hide=issues)](https://github.com/exdon/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exdon&layout=compact)](https://github.com/exdon/github-readme-stats)
