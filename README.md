@@ -72,7 +72,7 @@
 
 
 ## GitHub Stats
-<br/>
+
  [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon)](https://github.com/exdon/github-readme-stats)
 
 
