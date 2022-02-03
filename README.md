@@ -73,7 +73,7 @@
 
 ## GitHub Stats
 
- [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon&show_icons=true&theme=radical)](https://github.com/exdon/github-readme-stats)
+ [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon&show_icons=true&theme=dark)](https://github.com/exdon/github-readme-stats)
 
 
 
