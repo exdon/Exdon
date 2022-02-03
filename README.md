@@ -12,6 +12,7 @@
 :mailbox: Living in **Santo André, São Paulo**. <br />
 :mortar_board: I have a degree in **Analysis and Systems Development** and also in **Marketing and Advertising**. <br />
 
+<br/><br/>
 
 ## Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="90">
 
@@ -20,6 +21,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960702182)](https://api.whatsapp.com/send?phone=5511960702182)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ErikExdon)](https://t.me/ErikExdon)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:erik_exdon@rocketmail.com)](mailto:erik_exdon@rocketmail.com)
+
+<br/><br/>
 
 ## Languages and Tools :trophy:
 
@@ -70,13 +73,14 @@
 ![JIRA Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![JENKINS Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
+<br/><br/>
 
 ## GitHub Stats :chart_with_upwards_trend:
 
    [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon&show_icons=true&theme=gruvbox&hide=issues)](https://github.com/exdon/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exdon&layout=compact)](https://github.com/exdon/github-readme-stats)
 
-<br/><br/><br/>
+<br/><br/>
 
 <p> Thanks for visiting! </> :heart:
 
