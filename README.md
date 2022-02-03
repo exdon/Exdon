@@ -74,7 +74,7 @@
 ## GitHub Stats
 
    [![Exdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdon&show_icons=true&theme=gruvbox&hide=issues)](https://github.com/exdon/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exdon&layout=compact&height=165)](https://github.com/exdon/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exdon&layout=compact&height=200)](https://github.com/exdon/github-readme-stats)
 
 
 
