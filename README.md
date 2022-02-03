@@ -4,12 +4,12 @@
 
 
 ## About me
-<div align="center">
+
 :computer: I'm **Software Developer**! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30"> <br /> 
 :house_with_garden: I’m from **Brazil**. <br />
 :mailbox: Living in **Santo André, São Paulo**. <br />
 :mortar_board: I have a degree in **Analysis and Systems Development** and also in **Marketing and Advertising**. <br />
-</div>
+
 
 ## Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="90">
 
