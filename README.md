@@ -5,10 +5,10 @@
 
 ## About me
 
-:computer: I'm Software Developer! <br />
-:house_with_garden: I’m from Brazil. <br />
-:mailbox: Living in #Santo André, São Paulo. <br />
-:mortar_board: I have a degree in # Analysis and Systems Development # and also in # Marketing and Advertising. <br />
+:computer: I'm **Software Developer**! <br />
+:house_with_garden: I’m from **Brazil**. <br />
+:mailbox: Living in **Santo André, São Paulo**. <br />
+:mortar_board: I have a degree in **Analysis and Systems Development** and also in **Marketing and Advertising**. <br />
 
 ## Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="90">
 
