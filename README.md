@@ -12,7 +12,7 @@
 :mailbox: Living in **Santo André, São Paulo**. <br />
 :mortar_board: I have a degree in **Analysis and Systems Development** and also in **Marketing and Advertising**. <br />
 
-<br/><br/>
+<br/>
 
 ## Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="90">
 
@@ -22,7 +22,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ErikExdon)](https://t.me/ErikExdon)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:erik_exdon@rocketmail.com)](mailto:erik_exdon@rocketmail.com)
 
-<br/><br/>
+<br/>
 
 ## Languages and Tools :trophy:
 
@@ -73,7 +73,7 @@
 ![JIRA Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![JENKINS Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ## GitHub Stats :chart_with_upwards_trend:
 
