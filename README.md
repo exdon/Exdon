@@ -72,6 +72,7 @@
 ![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![JIRA Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![JENKINS Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 <br/>
 
